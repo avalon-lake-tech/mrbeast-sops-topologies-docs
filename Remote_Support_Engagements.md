@@ -18,7 +18,7 @@ This SOP applies to all employees responsible for providing remote support servi
 - Remote support requests are received through designated channels, such as a helpdesk ticketing system or direct contact with end-users or clients.
 - Before initiating remote support, obtain the explicit consent of the end-user or client. Ensure they are aware of the support session.
 ### Provide Support Following On-Site Support Procedures:
-When connected to the remote system, provide support following the same procedures as for on-site support. This may include diagnosing issues, troubleshooting, and resolving technical problems.
+- When connected to the remote system, provide support following the same procedures as for on-site support. This may include diagnosing issues, troubleshooting, and resolving technical problems.
 - Adhere to established support processes, documentation, and best practices.
 ### Maintain Security and Privacy:
 - During the remote support session, ensure that security and privacy are maintained. Avoid accessing or viewing sensitive or personal information that is unrelated to the support request.
