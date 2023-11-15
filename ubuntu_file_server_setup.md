@@ -48,8 +48,13 @@ Update  the firewall to allow connections on the samba ports:
 
 - `sudo ufw allow samba`
 
-Make note of the server's IP address:
-- `ip a `
+Make note of the server's IP address (This is only necessary for a LAN server)
+  - `ip a `
+
+On Lightsail, use the **Networking** console to open the following ports:
+- TCP: 139, 445
+- UDP: 137, 138
+
 
 
 ## Mounting the Samba Fileserver as Net Drive 
