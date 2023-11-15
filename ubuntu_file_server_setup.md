@@ -21,7 +21,9 @@
     - `sudo mkdir /home/USERNAME/share`
 
 ## Configuration
-Using a text editor (`nano` is recommended), add the following to the end of the samba configuration file:
+1. Open the samba configuration file
+    - `sudo nano /etc/samba/smb.conf`
+2. Add the following to the bottom.
 
 ```
 [sambashare]
