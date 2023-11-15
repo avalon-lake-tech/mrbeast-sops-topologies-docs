@@ -32,9 +32,9 @@
     read only = no
     browsable = yes
 ```
-Be sure to use the same absolute path as found earlier with `pwd`. The username may be different!
+Be sure to use the same absolute path as the share folder you created earlier.
 
-Samba does not use the system password, so we must create a samba user and password with the following command.
+Samba does not use the system password, so we must create a samba user and password with the following command. Use the same as we created earlier.
 - `sudo smbpasswd -a USERNAME`
 
 
