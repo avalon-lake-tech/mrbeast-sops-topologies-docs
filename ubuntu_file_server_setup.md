@@ -22,6 +22,15 @@ Using a text editor (`nano` is recommended), add the following to the end of the
 ```
 Be sure to use the same absolute path as found earlier with `pwd`. The username may be different!
 
+Samba does not use the system password, so we must create a samba user and password with the following command.
+
+    `sudo smbpasswd -a username` 
+
+Next enable the new samba account.
+
+    sudo smbpasswd -e username
+
+
 ## Firewall
 Update  the firewall to allow connections on the samba ports:
 
