@@ -31,6 +31,7 @@ Next enable the new samba account.
 
 
 ## Firewall
+
 Update  the firewall to allow connections on the samba ports:
 
 - `sudo ufw allow samba`
