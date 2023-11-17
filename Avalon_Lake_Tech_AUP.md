@@ -36,4 +36,4 @@ This AUP applies to all employees, contractors, vendors, and any other individua
 -For questions, concerns, or to report AUP violations, please contact the IT department or your immediate supervisor.
 ## Revision History:
 -Initial version (11/10/2023) - [Christen Reinhart]
--Revision 1 (Date) - [Contributors]
+-Revision 1 (Date) - [Contributors] 
