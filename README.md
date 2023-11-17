@@ -32,6 +32,6 @@
    - [Supporting Company Cloud Services](Supporting_Company_Cloud_Services.md)
 
 7. **Image:**
-   - [Topology Draft](topology.png)
+   - [Topology Draft](https://github.com/avalon-lake-tech/mrbeast-sops-topologies-docs/blob/main/Image/topology.png)
 
 
