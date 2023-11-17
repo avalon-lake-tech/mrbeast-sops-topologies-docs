@@ -32,6 +32,6 @@
    - [Supporting Company Cloud Services](Supporting_Company_Cloud_Services.md)
 
 7. **Image:**
-   - [Topology Draft](topology-draft.png)
+   - [Topology Draft](topology.png)
 
 
