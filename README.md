@@ -17,7 +17,6 @@
    - [Technology Purchase Request](Technology_Purchase_Request.md)
 
 3. **Documentation and Guides:**
-   - [README](README.md)
    - [Ubuntu File Server Setup](ubuntu_file_server_setup.md)
    - [Windows System Administration Support](Windows_System_Administration_Support.md)
 
